@@ -44,9 +44,6 @@
       "./tools/cssify"
     ]
   },
-  "engines": {
-    "node": ">=0.10 <0.12"
-  },
   "scripts": {
     "start": "./tools/serve",
     "test": "./node_modules/karma/bin/karma start --single-run",
